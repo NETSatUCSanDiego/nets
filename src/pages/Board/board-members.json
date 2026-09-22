@@ -19,10 +19,10 @@
       "image": "jaiden-vinh.png"
     },
     {
-      "id": "aidan-skinner",
-      "name": "Aidan Skinner",
+      "id": "anirudh-kalyanaraman",
+      "name": "Anirudh Kalyanaraman",
       "title": "VP Finance",
-      "image": "aidan-skinner.png"
+      "image": "anirudh-kalyanaraman.jpeg"
     },
     {
       "id": "amelia-moyron",
@@ -41,6 +41,12 @@
       "name": "Divenaa Madan",
       "title": "Logistics and Operations Chair",
       "image": "divenaa-madan.jpg"
+    },
+    {
+      "id": "yube-ostos-medina",
+      "name": "Yube Ostos Medina",
+      "title": "Externals Committee",
+      "image": "yube-ostos-medina.jpeg"
     },
     {
       "id": "navya-sreeraj",
@@ -65,19 +71,9 @@
       "name": "Melanie Masloub",
       "title": "Internals Committee",
       "image": "melanie-masloub.JPG"
-    },
-    {
-      "id": "anirudh-kalyanaraman",
-      "name": "Anirudh Kalyanaraman",
-      "title": "Internals Committee",
-      "image": "anirudh-kalyanaraman.jpeg"
-    },
-    {
-      "id": "yube-ostos-medina",
-      "name": "Yube Ostos Medina",
-      "title": "Externals Committee",
-      "image": "yube-ostos-medina.jpeg"
     }
+    
+    
     
 
     
