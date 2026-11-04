@@ -10,25 +10,25 @@
       "id": "jocelyn-peers",
       "name": "Jocelyn Peers",
       "title": "VP Internals",
-      "image": "jocelyn-peers.jpg"
+      "image": "jocelyn-peers.png"
     },
     {
       "id": "jaiden-vinh",
       "name": "Jaiden Vinh",
       "title": "VP Externals",
-      "image": "jaiden-vinh.png"
+      "image": "jaiden.png"
     },
     {
       "id": "anirudh-kalyanaraman",
       "name": "Anirudh Kalyanaraman",
       "title": "VP Finance",
-      "image": "anirudh-kalyanaraman.jpeg"
+      "image": "anirudh.png"
     },
     {
       "id": "amelia-moyron",
       "name": "Amelia Moyron",
       "title": "VP Operations",
-      "image": "amelia-moyron.jpg"
+      "image": "amelia.png"
     },
     {
       "id": "nate-lorenzo",
@@ -40,38 +40,57 @@
       "id": "divenaa-madan",
       "name": "Divenaa Madan",
       "title": "Logistics and Operations Chair",
-      "image": "divenaa-madan.jpg"
+      "image": "divenaa.png"
     },
     {
       "id": "yube-ostos-medina",
       "name": "Yube Ostos Medina",
       "title": "Department Relations Chair",
-      "image": "yube-ostos-medina.jpeg"
+      "image": "yube-ostos.png"
+    },
+    {
+      "id": "gavin-nguyen",
+      "name": "Gavin Nguyen",
+      "title": "MOSFET Team Project Lead",
+      "image": "gavin-nguyen.JPG"
+    },
+    {
+      "id": "axel-mendez",
+      "name": "Axel Mendez",
+      "title": "WindNode Project Lead",
+      "image": "axel.png"
+    },
+    {
+      "id": "aj-jones",
+      "name": "AJ Jones",
+      "title": "TICs Project Lead",
+      "image": "aj.png"
+    },
+     {
+      "id": "grace-levier",
+      "name": "Grace LeVier",
+      "title": "TICs Team Lead",
+      "image": "grace_levier.jpg"
     },
     {
       "id": "navya-sreeraj",
       "name": "Navya Sreeraj",
       "title": "EDI Chair",
-      "image": "navya-sreeraj.png"
+      "image": "navya.png"
     },
-    {
-      "id": "aj-jones",
-      "name": "AJ Jones",
-      "title": "Career Development Chair",
-      "image": "aj-jones.JPG"
-    },
-    {
-      "id": "grace-levier",
-      "name": "Grace LeVier",
-      "title": "Internals Committee",
-      "image": "grace-levier.jpg"
-    },
-    {
+     {
       "id": "melanie-masloub",
       "name": "Melanie Masloub",
-      "title": "Internals Committee",
-      "image": "melanie-masloub.JPG"
+      "title": "Career Development Chair",
+      "image": "Melanie.png"
+    },
+    {
+      "id": "vrinda-gianchandani",
+      "name": "Vrinda Gianchandani",
+      "title": "Alumni Relations Chair",
+      "image": "Vrinda.png"
     }
+    
     
     
     
